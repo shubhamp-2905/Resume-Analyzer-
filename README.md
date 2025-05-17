@@ -35,6 +35,7 @@ A smart, ML-powered resume screening tool that extracts insights, predicts job r
 ```bash
 git clone https://github.com/your-username/resume-analyzer-pro.git
 cd resume-analyzer-pro
+```
 
 ### 2. Install the Requirements
 
@@ -44,3 +45,10 @@ pip install -r requirements.txt
 ### 3. Run the Application
 
 streamlit run app.py
+
+### Screenshots
+
+![image](https://github.com/user-attachments/assets/6991d176-f277-440e-8e48-736b34b02071)
+
+
+
